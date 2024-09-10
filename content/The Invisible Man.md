@@ -20,5 +20,3 @@ Core: "[[Livros]]"
 ![[Chapter 1 - A Stranger Arrives in Iping]]
 ### [[Chapter 2 - Trouble in Iping]]
 ![[Chapter 2 - Trouble in Iping]]
-
-
