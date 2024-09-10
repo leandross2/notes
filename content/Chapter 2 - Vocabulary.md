@@ -1,0 +1,17 @@
+#### Vocabulary
+- Heard: Past of `hear`
+- Until: Até("até em português mesmo")
+- Along dark: same "in the dark" or junto do escuro
+- Even on warn days: in days hot(em dias quentes)
+- Frightened: with fear
+- Fell: past of `fall`
+- Wallking stick: Bengala
+- Fleew: Past of `Fly`
+- Stood: like a `keep` or `stay`
+- It doesn't matter if: não importa se...
+	- ![[Pasted image 20240909232210.png]]
+- chest: Peito/Torax
+-  <mark style="background: #D2B3FFA6;">held on</mark>: past of `hold on`
+- felt: past of `feel`
+- He was lying on the ground: ele estava deitado no chão
+	- ![[Pasted image 20240909233611.png]]
