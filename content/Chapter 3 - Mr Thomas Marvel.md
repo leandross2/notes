@@ -6,12 +6,12 @@ Referencia: "[[The Invisible Man]]"
 ---
 ### Characters
 ---
-#### Thomas Marvel
+#### [[Pasted image 20240924191950.png|Thomas Marvel]]
 I think He is a homeless
 ### Locals
 ---
-	- Anywhere on the road near Iping
-	- Coat and Horse Pub
+	-  Anywhere on the road near Iping
+	-  Coat and Horse Pub
 	- Around Coat and Horse Pub
 
 
