@@ -14,9 +14,12 @@ Core: "[[Livros]]"
 ---
 # [[O Homem Invisível Livro do Aluno.pdf|The invisible Man]]
 
-
 ## Chapters
 ### [[Chapter 1 - A Stranger Arrives in Iping]]
 ![[Chapter 1 - A Stranger Arrives in Iping]]
 ### [[Chapter 2 - Trouble in Iping]]
 ![[Chapter 2 - Trouble in Iping]]
+### [[Chapter 3 - Mr Thomas Marvel]]
+![[Chapter 3 - Mr Thomas Marvel]]
+
+### [[Chapter 4 - To Port Stowe]]
