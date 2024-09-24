@@ -10,8 +10,8 @@ Referencia: "[[The Invisible Man]]"
 I think He is a homeless
 ### Locals
 ---
-	-  Anywhere on the road near Iping
-	-  Coat and Horse Pub
+	- Anywhere on the road near Iping
+	- Coat and Horse Pub
 	- Around Coat and Horse Pub
 
 
