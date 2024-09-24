@@ -6,7 +6,8 @@ Referencia: "[[The Invisible Man]]"
 ---
 ### Characters
 ---
-Sailors
+[[Pasted image 20240924190611.png|Sailors]]
+Sailors of the Port Stowe.
 ### Locals
 ---
 - Port Stowe
