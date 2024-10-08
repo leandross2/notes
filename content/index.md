@@ -21,10 +21,8 @@ Core: "[[Livros]]"
 ![[Chapter 2 - Trouble in Iping]]
 ### [[Chapter 3 - Mr Thomas Marvel]]
 ![[Chapter 3 - Mr Thomas Marvel]]
-
 ### [[Chapter 4 - To Port Stowe]]
 ![[Chapter 4 - To Port Stowe]]
-## [[Chapter 5 -  Doctor Kemp]]
+### [[Chapter 5 -  Doctor Kemp]]
 ![[Chapter 5 -  Doctor Kemp]]
-
-## Chapter 6 - How to became invisible
+### Chapter 6 - How to became invisible
