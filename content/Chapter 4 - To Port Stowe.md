@@ -4,21 +4,13 @@ Referencia: "[[The Invisible Man]]"
 ---
 ### Chapter 4 - To Port Stowe
 ---
-### Characters
----
-[[Pasted image 20240924190611.png|Sailors]]
-Sailors of the Port Stowe.
-### Locals
----
-- Port Stowe
-### Session
----
-`Summer
-### Vocabulary
----
-Sailor: Marinheiro
-corner: Beco?
-Hoax: Fake news - Farsa
-### On this Chapter
----
-This, The invisible man and Mr Marvel have misunderstanding, because, the invisible man think Mr Marvel try run out of you, but He only doesen't know the right way, after They go to Port Stowe, a village near Iping, and the Mr Marvel try tell about the invisible man a sailor, but, the invisible man stop him Otherwise the invisble man going to kepping famous. 
+#### Characters
+![[Chapter 4 - Characters]]
+#### Locals
+![[Chapter 4  - Locals]]
+#### Session
+![[Chapter 4 - Session]]
+#### Vocabulary
+![[Chapter 4 - Vocabulary]]
+#### On this Chapter
+![[Chapter 4 -  On this Chapter]]

@@ -9,9 +9,9 @@
 - Fleew: Past of `Fly`
 - Stood: like a `keep` or `stay`
 - It doesn't matter if: não importa se...
-	- ![[Pasted image 20240909232210.png]]
-- chest: Peito/Torax
--  <mark style="background: #D2B3FFA6;">held on</mark>: past of `hold on`
+	- ![[O Homem Invisível Livro do Aluno.pdf#page=12&rect=60,465,342,521|O Homem Invisível Livro do Aluno, p.12]]
+- chest: Peito/Tórax
+- held on: past of `hold on`
 - felt: past of `feel`
 - He was lying on the ground: ele estava deitado no chão
-	- ![[Pasted image 20240909233611.png]]
+	- ![[O Homem Invisível Livro do Aluno.pdf#page=12&rect=473,261,746,300|O Homem Invisível Livro do Aluno, p.12]]
